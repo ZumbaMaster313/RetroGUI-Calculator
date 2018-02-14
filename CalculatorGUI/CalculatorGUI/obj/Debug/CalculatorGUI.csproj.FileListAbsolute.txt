@@ -1,0 +1,9 @@
+c:\users\iseba\onedrive\documents\visual studio 2015\Projects\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.exe.config
+c:\users\iseba\onedrive\documents\visual studio 2015\Projects\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.exe
+c:\users\iseba\onedrive\documents\visual studio 2015\Projects\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.pdb
+c:\users\iseba\onedrive\documents\visual studio 2015\Projects\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csprojResolveAssemblyReference.cache
+c:\users\iseba\onedrive\documents\visual studio 2015\Projects\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.Properties.Resources.resources
+c:\users\iseba\onedrive\documents\visual studio 2015\Projects\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.GenerateResource.Cache
+c:\users\iseba\onedrive\documents\visual studio 2015\Projects\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.exe
+c:\users\iseba\onedrive\documents\visual studio 2015\Projects\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.pdb
+c:\users\iseba\onedrive\documents\visual studio 2015\Projects\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.Form1.resources
